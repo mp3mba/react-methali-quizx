@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-methali-quizx/static/css/main.4a4a0f04.css",
+    "main.js": "/react-methali-quizx/static/js/main.566e09ca.js",
+    "static/js/787.175344a6.chunk.js": "/react-methali-quizx/static/js/787.175344a6.chunk.js",
+    "index.html": "/react-methali-quizx/index.html",
+    "main.4a4a0f04.css.map": "/react-methali-quizx/static/css/main.4a4a0f04.css.map",
+    "main.566e09ca.js.map": "/react-methali-quizx/static/js/main.566e09ca.js.map",
+    "787.175344a6.chunk.js.map": "/react-methali-quizx/static/js/787.175344a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4a0f04.css",
+    "static/js/main.566e09ca.js"
+  ]
+}
