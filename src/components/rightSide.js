@@ -23,6 +23,7 @@ function RightSide(){
 
     const startAgain = () => {
         setCurrentQuestion(0);
+        setScore(0);
     }
 
     return (
